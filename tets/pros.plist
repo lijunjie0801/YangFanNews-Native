@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>img</key>
+		<string>pro00</string>
+		<key>title</key>
+		<string>CROCS鞋不分季节短筒靴CROCS 鞋 不分季节 短筒靴 14818季节短筒靴</string>
+		<key>content</key>
+		<string>这是商品0</string>
+		<key>jiangjia</key>
+		<string>48</string>
+		<key>zhixiao</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro01</string>
+		<key>title</key>
+		<string>ADIDAS 运动 2016 春夏 训练鞋 AQ4337</string>
+		<key>content</key>
+		<string>这是商品1</string>
+		<key>jiangjia</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro02</string>
+		<key>title</key>
+		<string>ADIDAS 运动 2016 秋冬 长裤 AY8108</string>
+		<key>content</key>
+		<string>这是商品2</string>
+		<key>jiangjia</key>
+		<string>10</string>
+		<key>zhixiao</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro03</string>
+		<key>title</key>
+		<string>ADIDAS 运动 2016 秋冬 帽衫 B49907</string>
+		<key>content</key>
+		<string>这是商品3</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro00</string>
+		<key>title</key>
+		<string>CROCS 鞋 不分季节 短筒靴 14818</string>
+		<key>content</key>
+		<string>这是商品0</string>
+		<key>jiangjia</key>
+		<string>48</string>
+		<key>zhixiao</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro01</string>
+		<key>title</key>
+		<string>ADIDAS 运动 2016 春夏 训练鞋 AQ4337</string>
+		<key>content</key>
+		<string>这是商品1</string>
+		<key>jiangjia</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro02</string>
+		<key>title</key>
+		<string>ADIDAS 运动 2016 秋冬 长裤 AY8108</string>
+		<key>content</key>
+		<string>这是商品2</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>pro03</string>
+		<key>title</key>
+		<string>ADIDAS 运动 2016 秋冬 帽衫 B49907</string>
+		<key>jiangjia</key>
+		<string>3</string>
+		<key>zhixiao</key>
+		<string>1</string>
+	</dict>
+</array>
+</plist>
